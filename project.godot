@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="godot-platform-starter-2"
+config/name="godot-platform-starter"
 run/main_scene="res://World.tscn"
 config/icon="res://icon.png"
 
